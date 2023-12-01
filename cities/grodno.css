@@ -1,0 +1,324 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+body {
+    font-family: "Roboto", "Arial", sans-serif;
+    background-color: #171717;
+    background-repeat: repeat;
+    background-image: url('https://cubiq.ru/wp-content/uploads/2020/11/grunge-min.png');
+    color: #5e5e5e;
+    font-weight: 400;
+ 
+}
+
+.button {
+    position: absolute;
+    top: 17px;
+    left: 285px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+button {
+    margin: 15px;
+    background: rgb(212,75,56);
+    outline: none; /* убирать контур в Mozilla */
+    color: #fff; /* цвет текста */
+    text-decoration: none; /* убирать подчёркивание у ссылок */
+    user-select: none; /* убирать выделение текста */
+    padding: .7em 1.5em; /* отступ от текста */
+    height: 40px;
+    width: 175px;
+    border:none;
+
+
+
+}
+
+button:hover { background: rgb(232,95,76); } /* при наведении курсора мышки */
+button:active { background: rgb(152,15,0); } /* при нажатии */
+
+.gerb {
+    position: absolute;
+    left: 185px;
+    top: 10px;
+  }
+
+  .text {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+  }
+
+.grodno {
+
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.staryzamok {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+.text1 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text2 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.lida {
+    color: black;
+    margin-top: 40px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+.lidazamok {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text3 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text4 {
+
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text5 {
+    color: black;
+    margin-top: 40px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+
+
+.default {
+    background-color: #fff;
+    width: 1560px;
+    height: 6200px;
+    margin: 0 auto;
+    display: block;
+
+}
+
+.default2 {
+    position: absolute;
+    background-color: #910000;
+    width: 1560px;
+    height: 100px;
+    bottom: 0 auto;
+    
+}
+
+.default1 {
+    background-color: #222222;
+    width: 1560px;
+    height: 100px;
+    margin: 0 auto;
+    display: block;
+}
+
+.lobzamok {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text6 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text7 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text8 {
+    color: black;
+    margin-top: 40px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.mirzamok {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text9 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text10 {
+    color: black;
+    margin-top: 40px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text11 {
+    color: black;
+    margin-top: 40px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.ruina1 {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text12 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text13 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text14 {
+    color: black;
+    margin-top: 40px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.ruina2 {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text15 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text16 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.scrollup{
+    width:40px;
+    height:40px;
+    opacity:0.3;
+    position:fixed;
+    bottom:50px;
+    right:100px;
+    display:none;
+    text-indent:-9999px;
+    background: url('/Foto/icon_top.png') no-repeat;
+    }

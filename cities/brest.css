@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+body {
+    font-family: "Roboto", "Arial", sans-serif;
+    background-color: #171717;
+    background-repeat: repeat;
+    background-image: url('https://cubiq.ru/wp-content/uploads/2020/11/grunge-min.png');
+    color: #5e5e5e;
+    font-weight: 400;
+ 
+}
+
+.button {
+    position: absolute;
+    top: 17px;
+    left: 285px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+button {
+    margin: 15px;
+    background: rgb(212,75,56);
+    outline: none; /* убирать контур в Mozilla */
+    color: #fff; /* цвет текста */
+    text-decoration: none; /* убирать подчёркивание у ссылок */
+    user-select: none; /* убирать выделение текста */
+    padding: .7em 1.5em; /* отступ от текста */
+    height: 40px;
+    width: 175px;
+    border:none;
+}
+
+button:hover { background: rgb(232,95,76); } /* при наведении курсора мышки */
+button:active { background: rgb(152,15,0); } /* при нажатии */
+
+.gerb {
+    position: absolute;
+    left: 185px;
+    top: 10px;
+  }
+
+  .default {
+    background-color: #fff;
+    width: 1560px;
+    height: 2000px;
+    margin: 0 auto;
+    display: block;
+
+}
+
+.default1 {
+    background-color: #222222;
+    width: 1560px;
+    height: 100px;
+    margin: 0 auto;
+    display: block;
+}
+
+.scrollup{
+    width:40px;
+    height:40px;
+    opacity:0.3;
+    position:fixed;
+    bottom:50px;
+    right:100px;
+    display:none;
+    text-indent:-9999px;
+    background: url('/Foto/icon_top.png') no-repeat;
+    }
