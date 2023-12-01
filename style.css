@@ -26,15 +26,7 @@ body {
     text-align: center;
   }
 
-  .text {
-    text-align: center;
-    font-size: large;
-  }
 
-.text2 {
-    color: #41807c;
-    text-align: center;
-}
 
 .circle {
   background: rgb(212,75,56);
@@ -64,4 +56,48 @@ body {
 
 
 
+}
+
+button {
+  margin: 15px;
+  background: rgb(212,75,56);
+  outline: none; /* убирать контур в Mozilla */
+  color: #fff; /* цвет текста */
+  text-decoration: none; /* убирать подчёркивание у ссылок */
+  user-select: none; /* убирать выделение текста */
+  padding: .7em 1.5em; /* отступ от текста */
+  height: 40px;
+  width: 175px;
+  border:none;
+}
+
+button:hover { background: rgb(232,95,76); } /* при наведении курсора мышки */
+button:active { background: rgb(152,15,0); } /* при нажатии */
+
+.button1 {
+  position: absolute;
+  right: 404px;
+  top: 620px;
+}
+
+.text3 {
+  text-align: center;
+  position: absolute;
+  right: 165px;
+  top: 495px;
+  font-size: larger;
+} 
+.text {
+    text-align: center;
+    font-size: large;
+    position: absolute;
+    right: 220px;
+    top: 400px;
+  }
+
+.text2 {
+    position: absolute;
+    text-align: center;
+    right: 409px;
+    top: 455px;
 }
