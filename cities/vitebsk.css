@@ -50,7 +50,7 @@ button:active { background: rgb(152,15,0); } /* при нажатии */
   .default {
     background-color: #fff;
     width: 1560px;
-    height: 2000px;
+    height: 9000px;
     margin: 0 auto;
     display: block;
 
@@ -74,4 +74,125 @@ button:active { background: rgb(152,15,0); } /* при нажатии */
     display:none;
     text-indent:-9999px;
     background: url('/Foto/icon_top.png') no-repeat;
-    }
+}
+
+.text1 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text2 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.luchai {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text3 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text4 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text5 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.muzei2 {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text6 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text7 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text8 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.muzei3 {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text9 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text10 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}

@@ -147,7 +147,7 @@ button:active { background: rgb(152,15,0); } /* при нажатии */
 .default {
     background-color: #fff;
     width: 1560px;
-    height: 6200px;
+    height: 6000px;
     margin: 0 auto;
     display: block;
 

@@ -49,7 +49,7 @@ button:active { background: rgb(152,15,0); } /* при нажатии */
   .default {
     background-color: #fff;
     width: 1560px;
-    height: 2000px;
+    height: 8700px;
     margin: 0 auto;
     display: block;
 
@@ -74,3 +74,347 @@ button:active { background: rgb(152,15,0); } /* при нажатии */
     text-indent:-9999px;
     background: url('/Foto/icon_top.png') no-repeat;
     }
+
+.text {
+        color: black;
+        margin-top: 20px;
+        margin-left: 120px;
+        margin-right: 120px;
+        position: relative;
+        text-align: center;
+        font-size: x-large;
+}
+
+.text2 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.brestzamok {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text3 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text4{
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text5 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text6 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text7 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text8 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.chasova {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    border: none;
+}
+
+.kosovo {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text10 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text11 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text12 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.pusha {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text13 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text14 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text15 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.muzei {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text16 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text17 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text18 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.usadba {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text19 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text20 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text21 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.prushany {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text22 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text23 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text24 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.sapega {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text25 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text26 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text27 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.ruina24 {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text28 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text29 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
