@@ -49,7 +49,7 @@ button:active { background: rgb(152,15,0); } /* при нажатии */
   .default {
     background-color: #fff;
     width: 1560px;
-    height: 2000px;
+    height: 7000px;
     margin: 0 auto;
     display: block;
 
@@ -73,4 +73,263 @@ button:active { background: rgb(152,15,0); } /* при нажатии */
     display:none;
     text-indent:-9999px;
     background: url('/Foto/icon_top.png') no-repeat;
-    }
+}
+
+.text1 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text4 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text7 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text10 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text13 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text16 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text19 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text22 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text2 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text5 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text8 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text11 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text14 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text17 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text20 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.d1 {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.d2 {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.d3 {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.d4 {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.d5 {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.d6 {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.d7 {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text6 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text9 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text12 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text15 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text18 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text21 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}

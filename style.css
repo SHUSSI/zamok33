@@ -91,13 +91,13 @@ button:active { background: rgb(152,15,0); } /* при нажатии */
     text-align: center;
     font-size: large;
     position: absolute;
-    right: 220px;
-    top: 400px;
+    right: 290px;
+    top: 409px;
   }
 
 .text2 {
     position: absolute;
     text-align: center;
-    right: 310px;
-    top: 455px;
+    right: 235px;
+    top: 447px;
 }

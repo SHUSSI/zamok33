@@ -50,7 +50,7 @@ button:active { background: rgb(152,15,0); } /* при нажатии */
   .default {
     background-color: #fff;
     width: 1560px;
-    height: 2000px;
+    height: 10300px;
     margin: 0 auto;
     display: block;
 
@@ -74,4 +74,430 @@ button:active { background: rgb(152,15,0); } /* при нажатии */
     display:none;
     text-indent:-9999px;
     background: url('/Foto/icon_top.png') no-repeat;
-    }
+}
+
+.text1 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text2 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.paska {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text3 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text4 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text5 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.dfdf {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text6 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text7 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text8 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.fdfd {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text9 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text10 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text11 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.zamok33 {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text12 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text13 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text14 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.zamok88 {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text15 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text16 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text17 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.zamok11 {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text18 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text19 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text20 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.zamok99 {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text21 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text22 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text23 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.zamok12 {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text24 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.zamok14 {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text25 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text26 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text27 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text28 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text29 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.dasha-dura {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text30 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text31 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text32 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.durka-vaib {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+}
+
+.text33 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+.text34 {
+    color: black;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
